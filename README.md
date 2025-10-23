@@ -1,4 +1,4 @@
-# CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS
+ CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS
 
 COMPANY: CODTECH IT SOLUTIONS
 
@@ -33,8 +33,4 @@ Tech Stack:
 Extension: HTML, CSS, JavaScript, Chrome Extension APIs
 
 OUTPUT
-
-
-Backend (optional): Node.js, Express, MongoDB
-
-Visualization: Chart.js or D3.js
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/598d9778-4b92-47ed-9863-2e8ac5947352" />
